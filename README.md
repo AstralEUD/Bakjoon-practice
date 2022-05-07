@@ -1,2 +1,3 @@
 # Bakjoon-practice
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+백준 연습중인 정말 초보:
+  Language: C, Python3
