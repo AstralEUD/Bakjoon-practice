@@ -8,7 +8,7 @@
 
 ### 분류
 
-임의 정밀도 / 큰 수 연산(arbitrary_precision), 사칙연산(arithmetic), 수학(math), 문자열(string)
+사칙연산(arithmetic), 수학(math), 문자열(string)
 
 ### 문제 설명
 

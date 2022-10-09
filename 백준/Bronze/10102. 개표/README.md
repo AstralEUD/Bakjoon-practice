@@ -1,4 +1,4 @@
-# [Bronze II] 개표 - 10102 
+# [Bronze III] 개표 - 10102 
 
 [문제 링크](https://www.acmicpc.net/problem/10102) 
 
